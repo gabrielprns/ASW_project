@@ -1,6 +1,6 @@
 # AWS-BigData
 
-Repositório de cógido com AWS EMR e Python.
+Repositório de código com AWS EMR e Python.
 
-Neste repositório há os arquivos de configuração e execução de análise de dados.
+Neste repositório há arquivos de configuração e execução de análise de dados.
 
